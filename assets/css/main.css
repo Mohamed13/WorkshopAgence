@@ -87,7 +87,7 @@ body {
 body {
     font-weight: 300;
     font-size: 16px;
-    color: #878787;
+    color: #314E89;
 
     -webkit-font-smoothing: antialiased;
     -webkit-overflow-scrolling: touch;
@@ -146,7 +146,7 @@ hr:before {
     left: 25%;
     width: 50%;
     height: 2px;
-    background: #ccc;
+    background: #878787;
 }
 
 a img {
@@ -237,7 +237,7 @@ blockquote cite:before {
 
 /* Links */
 a {
-    color: black;
+    color: #76CEFF;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
